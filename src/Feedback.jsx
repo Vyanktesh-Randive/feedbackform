@@ -77,7 +77,7 @@ function Feedback() {
           <select
             value={rating}
             onChange={(e) => setRating(e.target.value)}
-            style={{ width: "100px", padding: "8px" }}
+            style={{ width: "120px", padding: "8px" }}
           >
             <option value="">Select rating</option>
             <option value="Excellent">Excellent</option>
