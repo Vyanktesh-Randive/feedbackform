@@ -97,7 +97,7 @@ function Feedback() {
             borderRadius: "30px",
             cursor: "pointer",
             marginTop: "10px",
-            width: "100px",
+            width: "120px",
           }}
         >
           Clear Form
